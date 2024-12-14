@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Nico!  
+Physics graduate pursuing a master's in Big Data. Passionate about leveraging data to uncover insights and solve complex problems. Love for space exploration and the future of quantum computing. 🚀  
+
 
 <!--
 **nicoruiz8/nicoruiz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
